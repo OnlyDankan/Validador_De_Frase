@@ -1,0 +1,14 @@
+/Users/daniel/HelloWorld/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1
+/Users/daniel/HelloWorld/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.deps.json
+/Users/daniel/HelloWorld/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.runtimeconfig.json
+/Users/daniel/HelloWorld/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.dll
+/Users/daniel/HelloWorld/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.pdb
+/Users/daniel/HelloWorld/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel/HelloWorld/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/daniel/HelloWorld/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.AssemblyInfo.cs
+/Users/daniel/HelloWorld/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/daniel/HelloWorld/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.dll
+/Users/daniel/HelloWorld/ConsoleApp1/obj/Debug/net9.0/refint/ConsoleApp1.dll
+/Users/daniel/HelloWorld/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.pdb
+/Users/daniel/HelloWorld/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.genruntimeconfig.cache
+/Users/daniel/HelloWorld/ConsoleApp1/obj/Debug/net9.0/ref/ConsoleApp1.dll
