@@ -1,39 +1,4 @@
-﻿/*using System;
-
-class Program
-{
-    static void Main(string[] args)
-    {
-        try
-        {
-            if (args.Length == 0)
-            {
-                throw new Exception("Nenhum argumento foi passado! Por favor, informe pelo menos um número.");
-            }
-
-            Console.WriteLine($"Foram passados {args.Length} argumentos:");
-
-            for (int i = 0; i < args.Length; i++)
-            {
-                Console.WriteLine($"Argumento {i + 1}: {args[i]}");
-            }
-
-            if (!int.TryParse(args[0], out int numero))
-            {
-                throw new Exception("O primeiro argumento precisa ser um número inteiro.");
-            }
-
-            Console.WriteLine($"O quadrado do primeiro argumento é: {numero * numero}");
-        }
-        catch (Exception ex)
-        {
-            Console.WriteLine($"Erro: {ex.Message}");
-        }
-
-    }
-}
-*/
-using System;
+﻿using System;
 using System.IO;
 
 class Program
@@ -48,7 +13,7 @@ class Program
 
         if (frase.Length == 0)
         {
-            throw new Exception ("Por favor preencha o campo acima.");
+            throw new Exception ("Por favor preencha o campo");
         }
          
             Char valorAtual = frase[0];
